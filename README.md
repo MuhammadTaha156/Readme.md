@@ -15,6 +15,9 @@ With hands-on experience in C++, Python, MERN Stack, and tools like Unity, Ardui
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-1F8ACB?style=for-the-badge&logo=oop&logoColor=white" />
 </p>
 
 ### 🌐 MERN Stack & Web Development
@@ -32,7 +35,7 @@ With hands-on experience in C++, Python, MERN Stack, and tools like Unity, Ardui
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-306998?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🔗 Blockchain Development
@@ -40,7 +43,6 @@ With hands-on experience in C++, Python, MERN Stack, and tools like Unity, Ardui
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-F8DC3E?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Web3.js-34445C?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
@@ -57,4 +59,15 @@ With hands-on experience in C++, Python, MERN Stack, and tools like Unity, Ardui
   <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🛠️ Tools & IDEs
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
