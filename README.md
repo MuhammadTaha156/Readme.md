@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **[Your Name]**, a passionate developer, AI enthusiast, and cloud practitioner.  
-I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+Hi there! I'm **Muhammad Taha**, a passionate developer, AI enthusiast, and Market Analyst.  
+I love building scalable Web applications, AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ---
 
@@ -12,7 +12,7 @@ I love building scalable AI applications, exploring LLM architectures, and optim
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VectorDB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-005571?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
