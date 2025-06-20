@@ -28,6 +28,15 @@ I love building scalable Web applications, AI applications, exploring LLM archit
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+### 🔗 Blockchain Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-F8DC3E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web3.js-34445C?style=for-the-badge&logo=web3.js&logoColor=white" />
+</p>
+
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
