@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Muhammad Taha**, a passionate developer, AI enthusiast, and Market Analyst.  
-I love building scalable Web applications, AI applications, exploring LLM architectures, and optimizing machine learning models.
+Hi there! I'm **Muhammad Taha**, a multidisciplinary developer passionate about AI, full-stack web development, game design, and blockchain technology.  
+With hands-on experience in C++, Python, MERN Stack, and tools like Unity, Arduino, and Solidity, I love building intelligent systems, immersive games, and decentralized solutions that solve real-world problems.
 
 ---
 
@@ -30,8 +30,9 @@ I love building scalable Web applications, AI applications, exploring LLM archit
 
 ### 🎮 Game Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
 ### 🔗 Blockchain Development
