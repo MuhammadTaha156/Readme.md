@@ -1,7 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 Hi there! I'm **Muhammad Taha**
 # 💫 About Me:
-
 Software Engineer<br>Working on Data Analysis Project<br>Currently AWS Cloud Club UOH Captain <br>Learning FARM Stack
 
 
